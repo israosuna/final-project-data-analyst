@@ -1,0 +1,88 @@
+Weather_ID,Weather_Condition
+1,Light Rain
+2,Overcast
+3,Mostly Cloudy
+4,Snow
+5,Light Snow
+6,Clear
+7,Not Specified
+8,Light Freezing Drizzle
+9,Haze
+10,Scattered Clouds
+11,Partly Cloudy
+12,Rain
+13,Heavy Rain
+14,Cloudy
+15,Fair
+16,Light Drizzle
+17,Drizzle
+18,Fog
+19,Thunderstorms and Rain
+20,Patches of Fog
+21,Light Thunderstorms and Rain
+22,Mist
+23,Rain Showers
+24,Light Rain Showers
+25,Heavy Drizzle
+26,Smoke
+27,Light Freezing Fog
+28,Light Freezing Rain
+29,Blowing Snow
+30,Heavy Thunderstorms and Rain
+31,Heavy Snow
+32,Snow Grains
+33,Squalls
+34,Light Fog
+35,Shallow Fog
+36,Thunderstorm
+37,Light Ice Pellets
+38,Thunder
+39,Thunder in the Vicinity
+40,Fair / Windy
+41,Light Rain with Thunder
+42,Heavy Thunderstorms and Snow
+43,Light Snow Showers
+44,Cloudy / Windy
+45,Ice Pellets
+46,N/A Precipitation
+47,Light Thunderstorms and Snow
+48,T-Storm
+49,Rain / Windy
+50,Wintry Mix
+51,Partly Cloudy / Windy
+52,Heavy T-Storm
+53,Sand
+54,Light Rain / Windy
+55,Widespread Dust
+56,Mostly Cloudy / Windy
+57,Blowing Dust / Windy
+58,Blowing Dust
+59,Volcanic Ash
+60,Freezing Rain / Windy
+61,Small Hail
+62,Wintry Mix / Windy
+63,Light Snow / Windy
+64,Heavy Ice Pellets
+65,Haze / Windy
+66,Heavy Rain / Windy
+67,Light Rain Shower
+68,Heavy T-Storm / Windy
+69,Fog / Windy
+70,Showers in the Vicinity
+71,T-Storm / Windy
+72,Thunder / Windy
+73,Heavy Snow / Windy
+74,Blowing Snow / Windy
+75,Snow / Windy
+76,Tornado
+77,Drizzle and Fog
+78,Squalls / Windy
+79,Snow and Sleet
+80,Light Snow and Sleet
+81,Widespread Dust / Windy
+82,Smoke / Windy
+83,Light Haze
+84,Heavy Thunderstorms with Small Hail
+85,Light Snow with Thunder
+86,Thunder and Hail / Windy
+87,Sand / Dust Whirlwinds
